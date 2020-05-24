@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.4c48667a.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.41a0a36d.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.41a0a36d.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.8c64cdeb.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.8c64cdeb.js.map",
-    "static/js/2.f539d5a3.chunk.js": "/react-portfolio/static/js/2.f539d5a3.chunk.js",
-    "static/js/2.f539d5a3.chunk.js.map": "/react-portfolio/static/js/2.f539d5a3.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.f6fd572a1e6ea0d6c0ebb7f01e141236.js": "/react-portfolio/precache-manifest.f6fd572a1e6ea0d6c0ebb7f01e141236.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.4c48667a.chunk.css.map": "/react-portfolio/static/css/main.4c48667a.chunk.css.map",
-    "static/js/2.f539d5a3.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f539d5a3.chunk.js.LICENSE.txt"
+    "main.css": "/www.fcscode.tech/static/css/main.4c48667a.chunk.css",
+    "main.js": "/www.fcscode.tech/static/js/main.41a0a36d.chunk.js",
+    "main.js.map": "/www.fcscode.tech/static/js/main.41a0a36d.chunk.js.map",
+    "runtime-main.js": "/www.fcscode.tech/static/js/runtime-main.bd05fa9b.js",
+    "runtime-main.js.map": "/www.fcscode.tech/static/js/runtime-main.bd05fa9b.js.map",
+    "static/js/2.f539d5a3.chunk.js": "/www.fcscode.tech/static/js/2.f539d5a3.chunk.js",
+    "static/js/2.f539d5a3.chunk.js.map": "/www.fcscode.tech/static/js/2.f539d5a3.chunk.js.map",
+    "index.html": "/www.fcscode.tech/index.html",
+    "precache-manifest.2a535a9f4a49a179b4ad552da5cadba0.js": "/www.fcscode.tech/precache-manifest.2a535a9f4a49a179b4ad552da5cadba0.js",
+    "service-worker.js": "/www.fcscode.tech/service-worker.js",
+    "static/css/main.4c48667a.chunk.css.map": "/www.fcscode.tech/static/css/main.4c48667a.chunk.css.map",
+    "static/js/2.f539d5a3.chunk.js.LICENSE.txt": "/www.fcscode.tech/static/js/2.f539d5a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c64cdeb.js",
+    "static/js/runtime-main.bd05fa9b.js",
     "static/js/2.f539d5a3.chunk.js",
     "static/css/main.4c48667a.chunk.css",
     "static/js/main.41a0a36d.chunk.js"
