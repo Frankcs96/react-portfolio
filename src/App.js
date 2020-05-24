@@ -1,8 +1,15 @@
 import React from 'react';
+import logo from './assets/cone.png'
 
 function App() {
+    console.log(logo)
   return (
-   <h1>REACT PORTFOLIO UPDATED XDDDDD</h1>
+      <div>
+        <h1>Under construction</h1>
+        <img width={'200px'} src={logo} alt="obra"/>
+      </div>
+  
+      
   );
 }
 
