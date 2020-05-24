@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-portfolio"]=this["webpackJsonpreact-portfolio"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),o=n(2),c=n.n(o);n(8);var l=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Under construction"),a.a.createElement("img",{src:"assets/cone.png",alt:"obra"}))};c.a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(l,null)),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.a655ece0.chunk.js.map
