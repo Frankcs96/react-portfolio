@@ -1,1 +1,18 @@
+/*
+Color palette
+#3c5b74
+#a3acb1
+#b67929
+#264b77
+#00243f
+ */
 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}

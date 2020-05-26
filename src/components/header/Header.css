@@ -1,0 +1,21 @@
+#header {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #e8e8e8;
+
+
+}
+
+
+
+img {
+    border-radius: 50%;
+    border: #1d1d1d 1px solid;
+    box-shadow: 2px 2px #232222;
+
+
+}

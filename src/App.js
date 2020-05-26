@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './assets/cone.png'
+import Header from './components/header/Header'
 
 function App() {
     console.log(logo)
   return (
       <div>
-        <h1>Under construction</h1>
-        <img width={'200px'} src={logo} alt="obra"/>
+        <Header/>
       </div>
   
       
