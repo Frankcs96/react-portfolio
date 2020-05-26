@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c48667a.chunk.css",
-    "main.js": "/static/js/main.6df3a45c.chunk.js",
-    "main.js.map": "/static/js/main.6df3a45c.chunk.js.map",
+    "main.css": "/static/css/main.04255c7c.chunk.css",
+    "main.js": "/static/js/main.e32c06c5.chunk.js",
+    "main.js.map": "/static/js/main.e32c06c5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d7d8550f.js",
     "runtime-main.js.map": "/static/js/runtime-main.d7d8550f.js.map",
-    "static/js/2.32080adc.chunk.js": "/static/js/2.32080adc.chunk.js",
-    "static/js/2.32080adc.chunk.js.map": "/static/js/2.32080adc.chunk.js.map",
+    "static/js/2.84fa2a32.chunk.js": "/static/js/2.84fa2a32.chunk.js",
+    "static/js/2.84fa2a32.chunk.js.map": "/static/js/2.84fa2a32.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.17c7caedf1b05908c0c9b25ccc265105.js": "/precache-manifest.17c7caedf1b05908c0c9b25ccc265105.js",
+    "precache-manifest.473c249bd703f6bf86650ccb714805ab.js": "/precache-manifest.473c249bd703f6bf86650ccb714805ab.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4c48667a.chunk.css.map": "/static/css/main.4c48667a.chunk.css.map",
-    "static/js/2.32080adc.chunk.js.LICENSE.txt": "/static/js/2.32080adc.chunk.js.LICENSE.txt",
-    "static/media/cone.png": "/static/media/cone.ba29f3d8.png"
+    "static/css/main.04255c7c.chunk.css.map": "/static/css/main.04255c7c.chunk.css.map",
+    "static/js/2.84fa2a32.chunk.js.LICENSE.txt": "/static/js/2.84fa2a32.chunk.js.LICENSE.txt",
+    "static/media/about-photo.jpg": "/static/media/about-photo.2b0144b6.jpg",
+    "static/media/background-header.jpg": "/static/media/background-header.46a12cab.jpg",
+    "static/media/cone.png": "/static/media/cone.ba29f3d8.png",
+    "static/media/conway.png": "/static/media/conway.af99235d.png",
+    "static/media/maze.png": "/static/media/maze.56e6394c.png",
+    "static/media/profile.jpg": "/static/media/profile.6bb617fd.jpg",
+    "static/media/weather.png": "/static/media/weather.f8f14668.png",
+    "static/media/wow-guild.png": "/static/media/wow-guild.3d7b5986.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d7d8550f.js",
-    "static/js/2.32080adc.chunk.js",
-    "static/css/main.4c48667a.chunk.css",
-    "static/js/main.6df3a45c.chunk.js"
+    "static/js/2.84fa2a32.chunk.js",
+    "static/css/main.04255c7c.chunk.css",
+    "static/js/main.e32c06c5.chunk.js"
   ]
 }
