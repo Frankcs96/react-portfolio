@@ -16,6 +16,7 @@ main {
     margin: 40px;
     cursor: pointer;
     padding: 20px;
+
 }
 
 .selected {
@@ -29,6 +30,17 @@ main {
 .about {
     animation-name: fadeInContent;
     animation-duration: 2s;
+
+
+}
+
+.aboutContent {
+    display: flex;
+    margin-top: 40px;
+    flex-direction: row;
+
+
+
 
 }
 
@@ -52,6 +64,76 @@ main {
     text-align: center;
 }
 
+hr {
+    border: 0;
+    height: 1px;
+    background: #333 linear-gradient(to right, #ccc, #333, #ccc);
+    margin-bottom: 20px;
+}
+
+
+
+.mainContent {
+    margin-top: 20px;
+}
+
+.mainContent h1 {
+    margin-bottom: 15px;
+}
+
+.card{
+    background-color: #cecccc;
+    height: 590px;
+    width: 350px;
+    border: 2px solid black;
+
+
+
+
+}
+.cardContainer {
+
+    margin: 20px 40px 0;
+
+
+}
+
+.card-head{
+    height: 200px;
+    width: 350px;
+    background-color: white;
+
+}
+
+.projectsContent {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+
+}
+
+.card-body {
+    min-height: 285px;
+}
+
+.button1{
+    background-color: black;
+
+    width: 50%;
+    height: 50px;
+    margin: 40px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+
+
+}
 
 
 @keyframes buttonAnimation {
