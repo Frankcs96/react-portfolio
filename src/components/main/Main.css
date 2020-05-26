@@ -26,9 +26,43 @@ main {
 
 }
 
+.about {
+    animation-name: fadeInContent;
+    animation-duration: 2s;
+
+}
+
+.projects {
+
+    animation-name: fadeInContent;
+    animation-duration: 2s;
+}
+
+.contact {
+    animation-name: fadeInContent;
+    animation-duration: 2s;
+
+}
+
+.mainContent {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
 @keyframes buttonAnimation {
     from {background-color: #cdced2}
     to {background-color: #b67929}
 }
+
+@keyframes fadeInContent {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+
 
 
