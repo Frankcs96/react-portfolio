@@ -19,7 +19,7 @@ main {
 }
 
 .selected {
-    background-color: #d08929;
+    background-color:  #b67929;
     animation-name: buttonAnimation;
     animation-duration: 2s;
     border-radius: 10%;
@@ -28,7 +28,7 @@ main {
 
 @keyframes buttonAnimation {
     from {background-color: #cdced2}
-    to {background-color: #d08929}
+    to {background-color: #b67929}
 }
 
 
