@@ -1,0 +1,34 @@
+main {
+
+}
+
+.sectionPicker {
+    margin-top: 20px;
+    color:#264b77;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.sectionPicker h2 {
+    margin: 40px;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.selected {
+    background-color: #d08929;
+    animation-name: buttonAnimation;
+    animation-duration: 2s;
+    border-radius: 10%;
+
+}
+
+@keyframes buttonAnimation {
+    from {background-color: #cdced2}
+    to {background-color: #d08929}
+}
+
+
