@@ -16,7 +16,10 @@ const About = () => {
                 My programming language of choice for backend is Java, but also have <br/>
                 some experience with python and C++. <br/> <br/>
 
-                <p>for the frontend my favourite framework is React</p>
+                <p>for the frontend my favourite framework is React</p> <br/>
+
+                I also like to spend a lot of time solving interview questions in websites like <br/>
+                leetcode to improve my data structures and algorithms
 
                 </p>
 
