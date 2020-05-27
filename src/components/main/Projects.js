@@ -2,6 +2,8 @@ import React from "react";
 import Card from "./Card";
 import wowImg from "../../assets/wow-guild.png";
 import conwayImg from "../../assets/conway.png";
+import weatherImg from "../../assets/weather.png";
+import mazeImg from "../../assets/maze.png";
 
 
 const Projects = () => {
@@ -22,6 +24,23 @@ const Projects = () => {
         link: "https://github.com/Frankcs96/Conway-s-Game-of-Life-with-UI"
     }
 
+    const weather = {
+        photo: weatherImg,
+        title: "Weather app",
+        desc: "Basic weather app with Node js",
+        skills: ["-Node","-Fetch api","-API","-JS","-Heroku"],
+        link: "https://github.com/Frankcs96/First-nodejs-app-Weather"
+    }
+
+    const maze = {
+        photo: mazeImg,
+        title: "Maze Runner",
+        desc: "Pacman based game with libgdx (java)",
+        skills: ["-Game dev","-Libgdx","-OOP"],
+        link: "https://github.com/Frankcs96/maze-runner"
+    }
+
+
 
 
     return (
@@ -31,6 +50,8 @@ const Projects = () => {
             <div className="projectsContent">
                 <Card attributes = {wowGuildManager}/>
                 <Card attributes = {conway}/>
+                <Card attributes = {weather}/>
+                <Card attributes = {maze}/>
             </div>
             <br/>
             <br/>

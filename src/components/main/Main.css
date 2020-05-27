@@ -135,6 +135,16 @@ a{
 
 }
 
+.contactContent {
+    display: flex;
+    justify-content: center;
+}
+
+.contactContent img {
+    margin: 40px;
+    cursor: pointer;
+}
+
 
 @keyframes buttonAnimation {
     from {background-color: #cdced2}

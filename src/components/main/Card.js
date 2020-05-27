@@ -23,7 +23,7 @@ const Card = (props) => {
 
                 </div>
                 <div className="button1">
-                    <a href={props.attributes.link} target="_blank">View Source Code</a>
+                    <a href={props.attributes.link} target="_blank" rel="noopener noreferrer">View Source Code</a>
                 </div>
             </div>
         </div>
