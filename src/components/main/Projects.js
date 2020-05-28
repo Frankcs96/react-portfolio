@@ -4,6 +4,7 @@ import wowImg from "../../assets/wow-guild.png";
 import conwayImg from "../../assets/conway.png";
 import weatherImg from "../../assets/weather.png";
 import mazeImg from "../../assets/maze.png";
+import ushortImg from "../../assets/ushort.png";
 
 
 const Projects = () => {
@@ -40,6 +41,14 @@ const Projects = () => {
         link: "https://github.com/Frankcs96/maze-runner"
     }
 
+    const ushort = {
+        photo: ushortImg,
+        title: "U-short",
+        desc: "URL shortener service",
+        skills: ["-API REST","-Spring framework","-Base62","-React","-MySQL"],
+        link: "https://github.com/Frankcs96/Ushort"
+    }
+
 
 
 
@@ -49,9 +58,11 @@ const Projects = () => {
             <hr/>
             <div className="projectsContent">
                 <Card attributes = {wowGuildManager}/>
+                <Card attributes = {ushort}/>
+                <Card attributes = {maze}/>
                 <Card attributes = {conway}/>
                 <Card attributes = {weather}/>
-                <Card attributes = {maze}/>
+
             </div>
             <br/>
             <br/>
